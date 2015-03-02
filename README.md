@@ -1,5 +1,11 @@
+XMLPARSER-string
+
+forked from XMLPARSER
+Make the XML node value in string other than Number
+
 XMLPARSER
 ========
+
 
 xmlparser 是一个基于NodeJs的封装组件，主要是用来解决XML转JSON格式的问题.
 
